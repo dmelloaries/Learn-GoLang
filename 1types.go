@@ -8,6 +8,8 @@ func main() {
 	//shorthand method
 	age2:=20
 
+	age2=21
+
 	//infered the type
 	var age3=23
 
